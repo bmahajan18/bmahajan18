@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hi 👋! My name is Bhavya Mahajan and I'm a MERN Stack Developer </h2>
+<h2 align="center">Hi 👋! My name is Bhavya Mahajan and I'm a Full Stack Developer </h2>
 
 ###
 
