@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmahajan18&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=fals[...]
+  <img src="https://github-readme-stats.vercel.app/api?username=bmahajan18&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmahajan18&theme=dracula&layout=compact" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=bmahajan18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -63,15 +63,12 @@
 ###
 
 <div align="left">
-  <!-- Replace YOUR_INSTAGRAM_HANDLE with your Instagram username (e.g. bhavyamahajan) -->
   <a href="https://www.instagram.com/bhavyamahajan__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <!-- Replace YOUR_LINKEDIN_HANDLE with your LinkedIn username -->
   <a href="https://www.linkedin.com/in/bhavya-mahajan-086a66288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <!-- Replace YOUR_TWITTER_HANDLE with your Twitter/X username -->
   <a href="https://x.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
